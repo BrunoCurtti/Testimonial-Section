@@ -1,2 +1,2 @@
-# Testimonial-Section
+# Testimonial-section
 Frontend Mentor Challenge - Testimonials section
